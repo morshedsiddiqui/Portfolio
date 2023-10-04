@@ -62,7 +62,7 @@ header
 
 #profilePic{
     
-    height: 400px;
+    height: 250px;
     border-radius: 50%;
     border: 5px solid rgb(140, 1, 1);
 }
@@ -111,4 +111,16 @@ h2{
 h1{
 
     color: #e7e7e7;
+}
+li{
+    color: #e7e7e7;
+
+}
+
+.list1{
+
+    font-size: 10px;
+    width: 60px;
+    color: #e7e7e7;
+
 }

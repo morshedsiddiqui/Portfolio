@@ -17,11 +17,6 @@ router.get('/services', (req,res,next)=>{
 
 
 
-router.get('/home', (req,res,next)=>{
-    res.render('home',{title:'Home'})
-})
-
-
 router.get('/about', (req,res,next)=>{
     res.render('about',{title:'About'})
 })
